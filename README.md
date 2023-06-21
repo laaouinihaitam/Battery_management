@@ -1,5 +1,5 @@
 # Battery_management
-jgd,cdnc,nc
+This project aims to make balance between three batteries 
 
 # Demonstration of result
 
