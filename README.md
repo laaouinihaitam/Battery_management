@@ -1,5 +1,5 @@
 # Battery_management
-This project aims to make balance between three batteries 
+This project aims to make balance between three batteries for an electrical vehicle to keep it in charge as long as possible
 
 # Demonstration of result
 
